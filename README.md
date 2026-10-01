@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Kali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Network%20Engineer&descAlignY=58&descSize=22" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Bogdan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Network%20Engineer&descAlignY=58&descSize=22" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Learning+computer+networking+%F0%9F%8C%90;Building+my+path+to+Network+Engineer+%F0%9F%9A%80;One+small+step+every+day+%F0%9F%92%AA" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 
 ##  About Me
 
-I'm a **beginner** who is currently learning and working toward one clear goal: **becoming a network engineer**.
+I'm **Bogdan Grapenyuk**, a **beginner** who is currently learning and working toward one clear goal: **becoming a network engineer**.
 
 I'm studying how computer networks work, practicing with real commands, and trying to learn something new every day. This profile is my learning journal. Here I'll share my notes, labs, and small projects as I grow.
 
@@ -51,7 +51,7 @@ I'm studying how computer networks work, practicing with real commands, and tryi
 
 ---
 
-##  Tools & Tech
+## Tools & Tech
 
 <div align="center">
 
@@ -66,7 +66,7 @@ I'm studying how computer networks work, practicing with real commands, and tryi
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -77,7 +77,7 @@ I'm studying how computer networks work, practicing with real commands, and tryi
 
 ---
 
-##  Progress Tracker
+## Progress Tracker
 
 ```text
 Networking       ████████░░░░░░░░░░░░  40%
