@@ -43,8 +43,8 @@ I'm studying how computer networks work, practicing with real commands, and tryi
 
 - [x]  Start learning networking
 - [x]  Practice basic network commands
-- [ ]  Master subnetting and IP addressing
-- [ ]  Build my first lab in Cisco Packet Tracer / GNS3
+- [x]  Master subnetting and IP addressing
+- [x]  Build my first lab in Cisco Packet Tracer / GNS3
 - [ ]  Write my first Python automation scripts
 - [ ]  Earn a certification (e.g. CCNA)
 - [ ]  Land a job as a Network Engineer
@@ -70,10 +70,10 @@ I'm studying how computer networks work, practicing with real commands, and tryi
 ## Progress Tracker
 
 ```text
-Networking       ████████░░░░░░░░░░░░  40%
-Linux            ██████░░░░░░░░░░░░░░  30%
-Python           ████░░░░░░░░░░░░░░░░  20%
-Cybersecurity    ████░░░░░░░░░░░░░░░░  20%
+Networking       ██████████░░░░░░░░░░  60%
+Linux            ████████░░░░░░░░░░░░  45%
+Python           █░░░░░░░░░░░░░░░░░░░  5%
+Cybersecurity    ██████░░░░░░░░░░░░░░  40%
 ```
 
 ---
