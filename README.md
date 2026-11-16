@@ -1,81 +1,72 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Bogdan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Network%20Engineer&descAlignY=58&descSize=22" alt="header" />
+# Bohdan Hrapeniuk
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Learning+computer+networking+%F0%9F%8C%90;Building+my+path+to+Network+Engineer+%F0%9F%9A%80;One+small+step+every+day+%F0%9F%92%AA" alt="Typing SVG" />
-</a>
+### Network Engineer 🌐
 
-<br/>
+**Networking • Cisco • Linux • Infrastructure**
 
-![Status](https://img.shields.io/badge/status-learning-00d4ff?style=for-the-badge&logo=bookstack&logoColor=white)
-![Goal](https://img.shields.io/badge/goal-Network%20Engineer-2c5364?style=for-the-badge&logo=cisco&logoColor=white)
-![Level](https://img.shields.io/badge/level-beginner-ff9f1c?style=for-the-badge)
+[![Network Engineer](https://img.shields.io/badge/Network-Engineer-00D4FF?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/mornintokyo)
+[![Linux](https://img.shields.io/badge/Linux-Powered-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/mornintokyo)
 
 </div>
 
 ---
 
-##  About Me
+## About Me
 
-I'm **Bogdan Grapenyuk**, a **beginner** who is currently learning and working toward one clear goal: **becoming a network engineer**.
+I'm Bogdan, a Network Engineer passionate about computer networks, infrastructure, and technology.
 
-I'm studying how computer networks work, practicing with real commands, and trying to learn something new every day. This profile is my learning journal. Here I'll share my notes, labs, and small projects as I grow.
+I enjoy building, configuring, troubleshooting, and understanding networks — from basic connectivity to routing and switching.
 
->  *"Everyone was a beginner once. The key is to keep going."*
+My focus is on developing practical engineering skills and building reliable network infrastructure.
 
----
+## Technical Skills
 
-##  What I'm Learning
+| Area | Technologies |
+|---|---|
+| Networking | TCP/IP, OSI, IPv4, Subnetting |
+| Routing & Switching | Cisco IOS, VLANs, STP, Static Routing |
+| Network Services | DHCP, DNS, NAT, ACL |
+| Network Analysis | Wireshark, Packet Tracer |
+| Operating Systems | Linux, macOS |
+| Tools | Git, GitHub, Terminal |
 
-| Topic | What I'm exploring |
-|:------|:-------------------|
-|  **Networking basics** | OSI model, TCP/IP, how data travels |
-|  **Addressing** | IPv4, subnetting, CIDR |
-|  **Routing & switching** | VLANs, static and dynamic routing |
-|  **Linux** | Command line, essential networking tools |
-|  **Python** | Scripting and network automation |
-|  **Cybersecurity** | Fundamentals and safe network practices |
+## Homelab & Infrastructure
 
----
+I build and experiment with real networking equipment.
 
-## 🗺️ My Roadmap
+- Cisco 2811 Router
+- Cisco SF200-24 Switch
+- Linux-based environment
+- Network configuration and troubleshooting
+- Practical networking experiments
 
-- [x]  Start learning networking
-- [x]  Practice basic network commands
-- [x]  Master subnetting and IP addressing
-- [x]  Build my first lab in Cisco Packet Tracer / GNS3
-- [x]  Write my first Python automation scripts
-- [x]  Land a job as a Network Engineer
+## Current Focus
 
----
+- Cisco networking and IOS configuration
+- Advanced routing and switching
+- Network troubleshooting
+- Linux administration
+- Network security and penetration testing fundamentals
+- Network automation
 
-## Tools & Tech
+## Technologies & Tools
 
 <div align="center">
 
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 </div>
 
 ---
----
 
-## Progress Tracker
+<div align="center">
 
-```text
-Networking       ████████████████████  100%
-Linux            ████████████████████  100%
-Python           ████████████████████  100%
-```
-
----
+**Building networks. Solving problems. Improving every day.**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
