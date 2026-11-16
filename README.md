@@ -2,15 +2,15 @@
 
 # BOHDAN HRAPENIUK
 
-### NETWORK ENGINEER
+### `NETWORK ENGINEER`
 
-**Designing · Connecting · Troubleshooting**
+**DESIGNING · CONNECTING · TROUBLESHOOTING**
 
-<img src="https://img.shields.io/badge/NETWORK_ENGINEERING-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/INFRASTRUCTURE-111827?style=for-the-badge&logo=serverfault&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=550&lines=Network+Infrastructure;Cisco+%7C+Linux+%7C+TCP%2FIP;Routing+%26+Switching;Building+my+own+Homelab" alt="Typing SVG" />
 
-[GitHub](https://github.com/mornintokyo) · [Repositories](https://github.com/mornintokyo?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mornintokyo)
+[![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.linux.org/)
 
 </div>
 
@@ -18,62 +18,92 @@
 
 ## `01` — ABOUT ME
 
-I'm Bogdan, a Network Engineer passionate about networking, infrastructure and technology.
+I'm a **Network Engineer** focused on network infrastructure, system administration and troubleshooting.
 
-I work with network equipment, configure network environments and troubleshoot connectivity issues.
+I enjoy understanding how networks work, building infrastructure, configuring equipment and solving real-world technical problems.
 
-I believe that understanding how networks work is just as important as knowing how to build them.
-
-My main direction is **Network Engineering**, with a growing interest in Network Security and Linux administration.
+- Network infrastructure & administration
+- Cisco networking
+- Linux systems
+- Network troubleshooting
+- Network security
 
 ---
 
-## `02` — TECHNICAL STACK
-
-<div align="center">
+## `02` — TECHNICAL ARSENAL
 
 | DOMAIN | TECHNOLOGIES |
-|:---|:---|
-| **Networking** | TCP/IP · OSI · IPv4 · Subnetting |
-| **Routing & Switching** | Cisco IOS · VLAN · STP · Routing |
-| **Network Services** | DHCP · DNS · NAT · ACL |
-| **Network Analysis** | Wireshark · Packet Tracer |
-| **Operating Systems** | Linux · macOS |
-| **Tools** | Git · GitHub · Bash |
+|:--|:--|
+| Networking | TCP/IP · OSI · IPv4 · Subnetting · ARP |
+| Switching | VLAN · Trunking · STP · Ethernet |
+| Routing | Static Routing · Dynamic Routing |
+| Services | DHCP · DNS · NAT · ACL |
+| Analysis | Wireshark · Packet Tracer |
+| Systems | Linux · macOS · Bash |
+| Tools | Git · GitHub · Cisco IOS |
 
-</div>
+---
 
-## `03` — HOMELAB
+## `03` — HOMELAB INFRASTRUCTURE
 
-**Real hardware. Real configurations. Practical experience.**
+**Building and experimenting with real networking equipment.**
 
-| Equipment | Purpose |
-|:---|:---|
-| Cisco 2811 | Routing & Network Configuration |
-| Cisco SF200-24 | Switching & VLANs |
-| ThinkPad T490 | Linux Workstation |
-| MacBook Pro | Server & Lab Environment |
+```text
+             ┌──────────────────┐
+             │    ISP / WAN     │
+             └────────┬─────────┘
+                      │
+             ┌────────▼─────────┐
+             │   CISCO 2811     │
+             │     ROUTER       │
+             └────────┬─────────┘
+                      │
+             ┌────────▼─────────┐
+             │  CISCO SF200-24  │
+             │     SWITCH       │
+             └────────┬─────────┘
+                      │
+              ┌───────┴───────┐
+              │              │
+         ┌────▼────┐    ┌────▼────┐
+         │ ThinkPad│    │ MacBook │
+         │  T490   │    │   Pro   │
+         └─────────┘    └─────────┘
+```
 
-My homelab is where I experiment with network configurations, learn protocols and develop practical troubleshooting skills.
+**Equipment:**
+- Cisco 2811 Router
+- Cisco SF200-24 Switch
+- Lenovo ThinkPad T490
+- Apple MacBook Pro
+
+---
 
 ## `04` — CURRENT FOCUS
 
-- Cisco Networking & IOS
-- Advanced Routing and Switching
-- VLANs and Network Segmentation
-- Linux System Administration
-- Network Troubleshooting
-- Network Security & Penetration Testing
+```bash
+$ cat /etc/engineering/focus
 
-## `05` — GITHUB STATISTICS
+[+] Cisco IOS
+[+] Routing & Switching
+[+] VLANs and Network Design
+[+] Linux Administration
+[+] Network Troubleshooting
+[+] Network Security
+[+] Penetration Testing
+```
+
+---
+
+## `05` — GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mornintokyo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mornintokyo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mornintokyo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mornintokyo&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=mornintokyo&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=mornintokyo&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=777777" alt="GitHub Streak" />
 
 </div>
 
@@ -81,8 +111,8 @@ My homelab is where I experiment with network configurations, learn protocols an
 
 <div align="center">
 
-### NETWORKS ARE BUILT ONE CONNECTION AT A TIME.
+### `NETWORKS ARE BUILT ONE CONNECTION AT A TIME.`
 
-**BOGDAN GRAPENYUK · NETWORK ENGINEER**
+<sub>Always learning. Always building. Always troubleshooting.</sub>
 
 </div>
